@@ -64,6 +64,6 @@
     "@uniswap/v3-core": "^1.0.1",
     "@uniswap/v3-periphery": "^1.4.4",
     "@zetachain/protocol-contracts": "11.0.0-rc3",
-    "@zetachain/toolkit": "13.0.0-rc4"
+    "@zetachain/toolkit": "13.0.0-rc9"
   }
 }
